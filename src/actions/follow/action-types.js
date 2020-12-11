@@ -1,0 +1,1 @@
+export const LOAD_FOLLOW_INFO = "LOAD_FOLLOW_INFO";

@@ -1,0 +1,1 @@
+export const LOAD_PROSPECT_INFO = "LOAD_PROSPECT_INFO";
